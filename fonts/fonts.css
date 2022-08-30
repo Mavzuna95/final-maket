@@ -1,0 +1,61 @@
+
+@font-face {
+    font-family: 'Inter';
+    src: url(/fonts/Inter-Regular.ttf);
+}
+@font-face {
+    font-family: 'KyivTypeSans-Regular-';
+    src: url(/fonts/KyivTypeSans-Regular-.ttf);
+}
+@font-face {
+    font-family: 'Montserrat-Bold';
+    src: url(/fonts/Montserrat-Bold.ttf);
+}
+.txt-color {
+    font-family: 'Inter';
+    font-size: 30px;
+    font-weight: 200;
+}
+.woops-txt  {
+    font-family: 'KyivTypeSans-Regular-';
+    font-size: 90px;
+    font-weight: 500;
+}
+ul> li {
+    font-family: 'Montserrat-Bold';
+    font-size: 17px;
+    font-weight: 700;
+}
+div> a, .card-title,
+.footer-phone-number, .footer-phone-number-2,
+.footer-geo-adress, .footer-geo-adress-2 {
+    font-family: 'Inter';
+    font-size: 30px;
+}
+.txt-solid-wood, .wood-work-txt, .advantages,
+.text-about, .our-work, .text-form, .text-contact {
+    font-family: 'KyivTypeSans-Regular-';
+    font-size: 70px;
+    font-weight: 500;
+    line-height: 100%;
+    text-transform: uppercase;
+}
+.card-text,
+ .stairs-text, .footer-privacy-policy {
+    font-family: 'Inter';
+    font-size: 20px;
+    font-weight: 700;
+}
+.button-order, .button,
+.button-receive, .text-consultation, .form-input {
+    font-family: 'Inter';
+    font-size: 30px;
+    font-weight: 700;
+    
+}
+.text-bio-cwt {
+    font-family: 'Inter';
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 50px;
+}
